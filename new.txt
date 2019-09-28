@@ -1,4 +1,8 @@
 
 hello,world
 
-add master
+<<<<<<< HEAD
+modify hello
+=======
+modify hello
+>>>>>>> hello
