@@ -1,8 +1,4 @@
 
 hello,world
 
-<<<<<<< HEAD
 modify hello
-=======
-modify hello
->>>>>>> hello
